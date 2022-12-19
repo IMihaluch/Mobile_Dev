@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
             QCoreApplication::exit(-1);
     }, Qt::QueuedConnection);
 
-    qmlRegisterType<ChartDataSource>("ru.gb.ChartDataSource", 1,
+    qmlRegisterType<ChartDataSource>("com.ChartDataSource", 1,
         0, "ChartDataSource");
 
     engine.load(url);
