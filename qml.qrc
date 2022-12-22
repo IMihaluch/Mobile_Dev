@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Several_figs.js</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
