@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Form.qml</file>
+        <file>New_page.qml</file>
+        <file>Script.js</file>
+    </qresource>
+</RCC>
